@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Rise & Fire`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Chris Manfred`,
+      summary: `who lives in Wisconsin and blogs about Purdue and the Big Ten.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Purdue and Big Ten Sports`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `quitethemanfred`,
     },
   },
   plugins: [
@@ -60,10 +60,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Rise & Fire`,
+        short_name: `Rise&Fire`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#fdfdfd`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
